@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Stugo.SafeEvents</id>
+    <version>$version$</version>
+    <authors>Stugo Ltd</authors>
+    <description>Provides an event architecture which uses WeakReferences to avoid memory leaks</description>
+    <copyright>Copyright © Stugo Ltd 2016</copyright>
+  </metadata>
+  <files>
+    <file src="bin\net40\Stugo.SafeEvents.dll" target="lib\net40\" />
+    <file src="bin\net40\Stugo.SafeEvents.pdb" target="lib\net40\" />
+  </files>
+</package>
